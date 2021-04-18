@@ -1,0 +1,4 @@
+*.js.map
+.parcel-cache
+dist
+node_modules
